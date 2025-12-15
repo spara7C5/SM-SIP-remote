@@ -1,0 +1,3 @@
+[submodule "SM-app"]
+	path = SM-app
+	url = https://github.com/spara7C5/SM-APP-Remote.git
