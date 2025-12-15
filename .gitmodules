@@ -1,3 +1,6 @@
 [submodule "SM-app"]
 	path = SM-app
 	url = https://github.com/spara7C5/SM-APP-Remote.git
+[submodule "SM-TRESOSMCAL"]
+	path = SM-TRESOSMCAL
+	url = https://github.com/spara7C5/SM-MCALTresos-Remote.git
